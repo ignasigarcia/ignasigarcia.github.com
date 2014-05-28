@@ -109,8 +109,9 @@ hr {
 }
 
 .highlight {
-  font-family: monospace;
-  line-height: 15px;
+  font-family: Monaco,Menlo,Consolas,"Courier New",monospace;
+  line-height: 20px;
+  font-size: 12px;
   margin: 25px 0 25px 20px;
 }
 

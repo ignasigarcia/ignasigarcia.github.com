@@ -8,6 +8,10 @@ categories: jekyll update
 You'll find this <span class="code">post</span> in your `_posts` directory - edit <span class="code">this</span> post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, [simply](http://www.tester.com) add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
+{% highlight bash %}
+sudo apt-get install chrome
+{% endhighlight %}
+
 Jekyll also offers powerful support for [test](http://www.terra.es) snippets:
 
 {% highlight javascript %}
