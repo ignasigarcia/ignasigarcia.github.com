@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  text-decoration: none
+  text-decoration: none;
   color: black;
 }
 
@@ -106,6 +106,17 @@ hr {
   margin: auto;
   text-align: center;
   color: #999;
+}
+
+.post ul {
+  margin: 20px 0 20px 30px;
+}
+
+.post li {
+  list-style-type: square;
+   font-family: 'Arvo';
+  font-size: 16px;
+  line-height: 24px;
 }
 
 .highlight {
