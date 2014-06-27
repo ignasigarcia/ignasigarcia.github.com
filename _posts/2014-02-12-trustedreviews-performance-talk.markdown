@@ -5,7 +5,7 @@ date:   2014-02-12 20:59:32
 categories: performance
 ---
 
-Here you will find the slides of a talk that my colleague [Marcin Wawrzyniak](https://github.com/mailopl) and myself did about performance for the site [Trusted Reviews](http://www.trustedreviews.com).
+Here you will find the slides of a talk that my colleague [Marcin Wawrzyniak](https://github.com/mailopl) and myself did at [IPC Media](http://www.ipcmedia.com/) about performance for the site [Trusted Reviews](http://www.trustedreviews.com).
 
 Here you have some stats before the changes:
 
