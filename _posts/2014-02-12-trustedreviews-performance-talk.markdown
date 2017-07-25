@@ -25,4 +25,4 @@ The key points of these changes are:
 * Trim down the amount of CSS lines
 * Simplify the DOM
 
-[Check the slides here](http://ignasigarcia.com/files/slides/tr-perfopt/#1)
+[Check the slides here](/files/slides/tr-perfopt/#1)
